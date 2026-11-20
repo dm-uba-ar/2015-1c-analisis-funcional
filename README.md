@@ -1,10 +1,5 @@
 # Análisis Funcional — Primer cuatrimestre de 2015
 
-## Equipo docente
-
-- **Clases teóricas:** Alejandro Petrovich
-- **Clases prácticas:** Sergio A. Yuhjtman, Martín I. Mansilla
-
 ## Prácticas
 
 - [Práctica 1 - Espacios de Hilbert.](p1-2015.pdf)
